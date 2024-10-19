@@ -18,10 +18,11 @@ The API is accessing a Vectorshift pipeline such as:
 
 3. Install the required dependencies:
    ```
-  make
+   make
    ```
 
 4. Make sure your Vectorshift API key is setup as an environment variable.
+   ```
    QUERY_TO_AUDIO_API_KEY=your_api_key_here
    ```
 
